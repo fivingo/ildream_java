@@ -1,0 +1,18 @@
+package day02;
+
+public class Day02_04 {
+
+	public static void main(String[] args) {
+		
+		int kor = 50;
+		int eng = 90;
+		int mat = 100;
+		
+		int result = kor + eng + mat;
+		
+		System.out.println("ÃÑÇÕ: " + result + "Á¡");
+		System.out.println("ÃÑÇÕ: " + (kor + eng + mat) + "Á¡");
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package day02;
+
+public class Day02_test {
+
+	public static void main(String[] args) {
+		
+		int kor = 50; // 국어점수
+		int eng = 90; // 영어점수
+		int mat = 100; // 수학점수
+		
+		int result = kor + eng + mat;
+		
+		System.out.println("총합: " + kor + eng + mat + "점");
+
+	}
+
+}

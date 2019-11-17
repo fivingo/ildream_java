@@ -1,0 +1,21 @@
+package day04;
+
+import java.io.*;
+
+public class Day04_09 {
+	public static void main(String[] args) throws IOException {
+		System.out.println("1.Â¥Àå¸é 2.Â«»Í 3.ÅÁ¼öÀ° 4.ÆÈº¸Ã¤");
+		System.out.print("¸Þ´º: ");
+		int menu = System.in.read() - 48;
+		
+		if (menu == 1) {
+			System.out.println("Â¥Àå¸é ½ÃÄ×À½ Á¶¸®¹Ù¶÷!!");
+		} else if (menu == 2) {
+			System.out.println("Â«»Í ½ÃÄ×À½ Á¶¸®¹Ù¶÷!!");
+		} else if (menu == 3) {
+			System.out.println("ÅÁ¼öÀ° ½ÃÄ×À½ Á¶¸®¹Ù¶÷!!");
+		} else {
+			System.out.println("ÆÈº¸Ã¤ ½ÃÄ×À½ Á¶¸®¹Ù¶÷!!");
+		}
+	}
+}

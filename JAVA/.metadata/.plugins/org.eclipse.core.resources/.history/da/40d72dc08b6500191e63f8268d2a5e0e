@@ -1,0 +1,19 @@
+package day02;
+
+public class Day02_04 {
+
+	public static void main(String[] args) {
+		
+		int kor = 50;
+		int eng = 90;
+		int mat = 100;
+		
+		int result = kor + eng + mat;
+		
+		System.out.println("총합: " + result + "점");
+		//System.out.println("총합: " + kor + eng + mat + "점");
+		//문자로 시작시 연결연산자로 인식
+		
+	}
+
+}

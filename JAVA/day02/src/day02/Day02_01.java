@@ -1,0 +1,9 @@
+package day02;
+
+public class Day02_01 {
+	public static void main(String []args) {
+		
+		System.out.println("이클립스로 작성한 내용!");
+		
+	}
+}

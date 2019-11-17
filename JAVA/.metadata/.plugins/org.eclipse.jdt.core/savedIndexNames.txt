@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+D:\Documents\Programming_DREAM\javastudy\.metadata\.plugins\org.eclipse.jdt.core
+4151544267.index
+2574223388.index
+2069356092.index
+3909450899.index
+1853544561.index
+427682023.index
+504376574.index
+774402197.index
+4274374112.index
+2311255414.index
+2650950661.index
+2155133277.index
+118169023.index
+3692298484.index
+1879846185.index
+1763122280.index

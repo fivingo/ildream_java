@@ -1,0 +1,20 @@
+package day02;
+
+public class Day02_04 {
+
+	/** 이것은 프로그램의 시작점 */
+	public static void main(String[] args) {
+		
+		int kor = 50; // 국어점수
+		int eng = 90; // 영어점수
+		int mat = 100; // 수학점수
+		
+		int result = kor + eng + mat;
+		
+		System.out.println("총합: " + result + "점");
+		//System.out.println("총합: " + kor + eng + mat + "점");
+		//문자로 시작시 +가 연결연산자로 인식 (산술연산자x)
+		
+	}
+
+}

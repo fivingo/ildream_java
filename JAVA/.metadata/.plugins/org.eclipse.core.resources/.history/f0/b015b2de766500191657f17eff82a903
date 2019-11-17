@@ -1,0 +1,19 @@
+package day02;
+
+public class Day02_03 {
+
+	public static void main(String[] args) {
+			
+		System.out.println("1. 논리형 자료형");
+		
+		boolean bool1;
+		bool1 = true;
+		
+		System.out.println("bool1 = " + bool1);
+		
+		boolean bool2 = false;
+		
+		System.out.println("bool2 = " + bool2);
+		
+	}
+}

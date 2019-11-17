@@ -1,0 +1,61 @@
+package day02;
+
+public class Day02_03 {
+
+	public static void main(String[] args) {
+			
+		System.out.println("1. 논리형 자료형");
+		
+		boolean bool1;
+		bool1 = true;
+		
+		System.out.println("bool1 = " + bool1);
+		
+		boolean bool2 = false;
+		
+		System.out.println("bool2 = " + bool2);
+		
+		System.out.println("2. 정수형 자료형");
+		
+		byte by = 127;
+		
+		by++; // 간접오버플로우 발생 (byte: -128 ~ 127)
+		System.out.println("by = " + by);
+		
+		char ch = 'A' + 1; // 문자A 아스키코드로 저장
+		
+		System.out.println("ch = " + ch);
+		
+		short sh = 1004;
+		
+		System.out.println("sh = " + sh);
+		
+		int in = 10004;
+		
+		System.out.println("in = " + in);
+		
+		byte b1 = 3;
+		byte b2 = 4;
+		
+		// byte result = b1 + b2; : int로 타입 자동변환
+		int result = b1 + b2;
+		
+		System.out.println("result = " + result);
+		
+		long lo = 1234;
+		
+		System.out.println("lo = " + lo);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

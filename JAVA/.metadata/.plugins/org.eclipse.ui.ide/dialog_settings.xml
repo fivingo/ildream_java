@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Documents\Programming_DREAM\javastudy\thisIsJava\bin\thisisjava"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\jdbctest"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\thisIsJava\src\generic"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day14"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\thisIsJava\src"/>
+		<item value="G:\Programming\javastudy\day13\src"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day13\src"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\thisIsJava\src\temp"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day12"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day11"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day10"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day09"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day08"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day07"/>
+		<item value="D:\Documents\Programming\java 200제"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\thisIsJava\src\thisisjava"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day06"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day05"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day04"/>
+		<item value="D:\Documents\Programming_DREAM\javastudy\day03"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="465" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="210" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\fivin\Desktop\Study"/>
+			<item value="C:\Users\fivin\Desktop\Develop 11.7"/>
+			<item value="E:\Programming\javastudy"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
